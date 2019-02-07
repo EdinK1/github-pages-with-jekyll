@@ -14,7 +14,3 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
 
----
-title: "first blog"
-date: 2019-02-07
----
